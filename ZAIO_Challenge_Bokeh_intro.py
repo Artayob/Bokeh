@@ -1,5 +1,4 @@
 from bokeh.plotting import figure, show
-from bokeh.models import Legend
 
 def create_bokeh_line_plot():
     """
